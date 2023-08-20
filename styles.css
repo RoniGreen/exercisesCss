@@ -1,0 +1,35 @@
+div {
+    border-radius:50%;
+    }
+    
+    #outer {
+      border: 25px solid #ff0000;
+      background-color: #ffa500;
+      
+      height: 200px;
+      width: 200px;
+      padding:25px;
+      
+    }
+    
+    #middle {
+      
+      border: 25px solid #ffff00;
+      background-color: #008000;
+     
+      height: 100px;
+      width: 100px;
+      padding:25px;
+    }
+    
+    #inner {
+      
+      border: 25px solid #0000ff;
+      background-color: #800080;
+     
+      height: 50px;
+      width: 50px;
+    }
+    
+    
+    
